@@ -30,11 +30,11 @@ export default function Home() {
       <MaxWidthWrapper>
         <div className="py-20 mx-auto text-center flex flex-col items-center max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-slate-700 sm:text-6xl">
-            Tu Mercado de recursos{" "}
-            <span className="text-orange-400">alta calidad</span>
+            Tu Mercado De Recursos De{" "}
+            <span className="text-orange-400">Alta Calidad</span>
           </h1>
           <p className="mt-6 text-lg max-w-prose text-muted-foreground">
-            Bienvenidos a Recursos Ambientales Digitales. Cada recurso en
+            Bienvenidos a <span className="text-slate-900">Recursos Ambientales Digitales</span>. Cada recurso en
             nuestra plataforma es verificada por nuestro equipo para asegurar la
             alta calidad de los estandares.
           </p>
